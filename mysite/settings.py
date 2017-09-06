@@ -25,7 +25,7 @@ SECRET_KEY = 'uvy0unm-au&rz0nembnk(o01oxhf61kq3nlh*!krv1bbup)uka'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ('hatsunami.pythonanywhere.com', )
 
 
 # Application definition
